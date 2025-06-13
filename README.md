@@ -17,4 +17,8 @@ This project dives into real-world sales data from a pizza restaurant (Pizza Hut
 - Percentage revenue contribution by each pizza type
 - Cumulative revenue growth over time
 - Top 3 revenue-generating pizzas per category
+# Conclusion
+This project showcases how structured SQL analysis can drive meaningful business decisions in a food retail environment. From tracking sales performance and customer preferences to identifying revenue patterns.
+
+
 
